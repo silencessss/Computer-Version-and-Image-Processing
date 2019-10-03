@@ -1,0 +1,2 @@
+﻿main.obj : error LNK2005: main 已在 中值濾波.obj 中定義過了
+C:\Users\User\Documents\Visual Studio 2015\Projects\Project1_v3\Project1\x64\Debug\Project1.exe : fatal error LNK1169: 找到有一或多個已定義的符號
